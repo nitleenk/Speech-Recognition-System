@@ -1,7 +1,7 @@
 # Speech Recognition System
 
 ## Problem statement:
-To understand speech commands given by user, convert them to text and open the mentioned website in user's default browser.
+To understand speech given by user, convert them to text and open the mentioned website in user's default browser.
 
 ## Description:
 The AI app uses speech recognition technology to convert spoken words into text format. The built-in microphone that can pick up the user's voice and send the audio data to the speech recognition algorithm. The code uses various techniques, such as signal processing, machine learning, and pattern recognition to convert the audio into text.
