@@ -1,4 +1,5 @@
 # Speech Recognition System
+Python based speech to text conversion.
 
 ## Problem statement:
 To understand speech given by user, convert them to text and open the mentioned website in user's default browser.
